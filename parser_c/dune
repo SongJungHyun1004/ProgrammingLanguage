@@ -1,0 +1,3 @@
+(ocamllex lexerC)
+
+(menhir (modules parserC))
